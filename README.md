@@ -40,7 +40,7 @@ To use the Planty of Food API, follow these steps:
 4. Configure environment variables:
 
     - Create a `.env` file in the root directory.
-    - Define environment variables such as database connection details and API keys.
+    - Define environment variables such as database connection details.
 
 5. Start the server:
 
