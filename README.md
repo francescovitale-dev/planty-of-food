@@ -6,9 +6,7 @@
 [![Express](https://img.shields.io/badge/Express-v4.17.1-lightgrey)](https://expressjs.com/)
 
 - [Overview](#overview)
-- [Features](#features)
 - [How To Use](#how-to-use)
-- [API Endpoints](#api-endpoints)
 - [Credits](#credits)
 
 ## Overview
